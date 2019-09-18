@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
       <h3>
+        Lambda School
         GeoLocation Information Found Through Your Public IP Address
       </h3>
       <IpInformation />
